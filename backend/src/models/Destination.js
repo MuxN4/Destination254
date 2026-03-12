@@ -25,3 +25,7 @@ const destinationSchema = new mongoose.Schema({
         required: true
     }
 }, { timestamps:true });
+
+const Destination = mongoose.model("Destination", destinationSchema);
+
+export default Destination;
