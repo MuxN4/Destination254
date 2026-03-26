@@ -2,7 +2,7 @@
 
 A mobile travel-sharing platform where users can discover, rate, and share travel destinations. Travelers can upload photos, write short reviews, and inspire others to explore new places. The app focuses on real experiences from real travelers, making it easier to find authentic travel recommendations.
 
-![App Screenshots](screenshots/app-preview.png)
+![App Screenshots](screenshots/screenshot.png)
 
 ## Features
 
